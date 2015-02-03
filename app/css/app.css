@@ -166,3 +166,12 @@ div#header img {
 html#iprint-preview #navbar-container {
   display: none;
 }
+
+.header-print {
+  /*margin-top: -41px;*/
+}
+
+.container {
+  /*padding-left: 0px !important;*/
+  /*padding-right: 0px !important;*/
+}
